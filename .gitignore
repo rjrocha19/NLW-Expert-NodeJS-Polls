@@ -1,0 +1,27 @@
+# Módulos Node.js instalados
+node_modules/
+
+# Arquivos de dependência
+package-lock.json
+yarn.lock
+bun.lockb
+
+# Arquivos gerados pelo editor
+.vscode/
+.idea/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de log
+*.log
+
+# Arquivos de compilação
+/build/
+
+# Arquivos de configuração do editor
+*.swp
+*.swo
+
+# Dependências de desenvolvimento
+devDependencies/
